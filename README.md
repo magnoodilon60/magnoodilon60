@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/magnoodilon60/magnoodilon60/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/magnoodilon60/magnoodilon60/main/snake.svg" alt="Snake animation" />
 
 ###
